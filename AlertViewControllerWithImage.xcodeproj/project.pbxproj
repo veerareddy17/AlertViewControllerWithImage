@@ -431,6 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AlertViewControllerWithImage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.KelltontechSolutions.AlertViewControllerWithImage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -443,6 +444,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AlertViewControllerWithImage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.KelltontechSolutions.AlertViewControllerWithImage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -523,6 +525,7 @@
 				838912901F728FDB004E29F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		838912911F728FDB004E29F2 /* Build configuration list for PBXNativeTarget "AlertViewControllerWithImageTests" */ = {
 			isa = XCConfigurationList;
@@ -531,6 +534,7 @@
 				838912931F728FDB004E29F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		838912941F728FDB004E29F2 /* Build configuration list for PBXNativeTarget "AlertViewControllerWithImageUITests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +543,7 @@
 				838912961F728FDB004E29F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
